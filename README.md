@@ -1,1 +1,1 @@
-# Chatbot-for-customer-service
+The Customer Service Chatbot is an AI-powered virtual assistant designed to interact with customers in real-time, providing support, answering questions, resolving issues, and guiding users through products or services.# Chatbot-for-customer-service
